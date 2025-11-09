@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd{
     background-color: rgb(239, 164, 177);
-    font-family: Verdana, DejaVu Sans,sans-serif;
+    font-family: Verdana, "DejaVu Sans",sans-serif;
 }
 #number2{
 color: rgb(0, 0, 252);
